@@ -4,3 +4,9 @@ C:\Users\rocho\Desktop\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 C:\Users\rocho\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
 C:\Users\rocho\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\rocho\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\All\GitHub\Lesson25-Serialization-\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\All\GitHub\Lesson25-Serialization-\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\All\GitHub\Lesson25-Serialization-\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\All\GitHub\Lesson25-Serialization-\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\All\GitHub\Lesson25-Serialization-\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\All\GitHub\Lesson25-Serialization-\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

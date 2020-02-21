@@ -88,7 +88,7 @@ namespace SerializationLess
             #region JsonSerializator
             var json_formatter = new DataContractJsonSerializer(typeof(List<Student>));
 
-            using (var file = new FileStream("students.json", FileMode.OpenOrCreate))
+            using (var file = new FileStream("students.json", FileMode.Create))
                 json_formatter.WriteObject(file, students);
             using (var file = new FileStream("students.json", FileMode.OpenOrCreate))
             {
